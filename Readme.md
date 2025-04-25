@@ -32,6 +32,11 @@ The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gat
   - Implements **Time to Live (TTL)** for auto-expiry of stale data.
   - Uses **Streams** for tracking player online/offline status.
 
+- **Amazon CloudWatch**  
+  - Collects logs and metrics from **Lambda**, **API Gateway**, and **DynamoDB**.
+  - Provides real-time monitoring for function invocation counts, durations, errors, throttles, and custom metrics.
+  - Dashboards visualize game traffic, active players, and system health.
+
 - **AWS SNS (Simple Notification Service)**  
   - Sends email alerts (e.g. player disconnected) based on DynamoDB stream events handled by Lambda.
 
