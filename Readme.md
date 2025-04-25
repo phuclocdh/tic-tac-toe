@@ -1,4 +1,4 @@
-# 🕹️ TicTacToe High Availability Website - Serverless on AWS
+# 🕹️ BUILD TICTACTOE HIGH AVAILABLE  WEBSITE ONLINE WITH SERVERLESS ARCHITECTURE IN AWS 
 
 ## 🌐 Project Overview
 
