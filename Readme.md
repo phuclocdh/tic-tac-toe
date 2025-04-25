@@ -55,9 +55,6 @@ The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gat
   - Distributes incoming traffic across EC2 instances.
   - Enhances fault tolerance and performance.
 
-- **Amazon Machine Image (AMI)**  
-  - Used to replicate identical EC2 instances in the ASG.
-
 - **AWS VPC (Virtual Private Cloud)**  
   - Provides isolated network infrastructure.
   - Includes subnets, security groups, and routing for resource control.
