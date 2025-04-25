@@ -4,7 +4,7 @@
 
 This project demonstrates how to build a **highly available online TicTacToe game** using **Serverless Architecture** on **AWS**. It combines **WebSocket communication**, a **serverless backend**, and a **high availability frontend** infrastructure to provide a seamless, real-time gaming experience.
 
-The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gateway) for backend logic and **compute infrastructure** (EC2, ALB, ASG, AMI, VPC) to ensure availability and scalability.
+The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gateway) for backend logic and **compute infrastructure** (EC2, ALB, ASG, VPC) to ensure availability and scalability.
 
 ### 🖼️ Architecture Diagram
 
