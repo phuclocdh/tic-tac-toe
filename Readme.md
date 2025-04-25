@@ -6,6 +6,10 @@ This project demonstrates how to build a **highly available online TicTacToe gam
 
 The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gateway) for backend logic and **compute infrastructure** (EC2, ALB, ASG, AMI, VPC) to ensure availability and scalability.
 
+### 🖼️ Architecture Diagram
+
+![Architecture Diagram]([LeNguyenPhucLoc]Tictactoe-project-design.png)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -82,3 +86,7 @@ The system leverages a mix of **serverless services** (Lambda, DynamoDB, API Gat
 
 For questions, feel free to reach out or open an issue.  
 Happy coding and gaming! 🎮
+
+**Le Nguyen Phuc Loc**  
+*DevOps Engineer*  
+📧 phuclocdh2017@gmail.com
